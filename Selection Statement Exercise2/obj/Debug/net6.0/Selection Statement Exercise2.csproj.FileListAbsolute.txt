@@ -1,0 +1,15 @@
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\bin\Debug\net6.0\Selection Statement Exercise2.exe
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\bin\Debug\net6.0\Selection Statement Exercise2.deps.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\bin\Debug\net6.0\Selection Statement Exercise2.runtimeconfig.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\bin\Debug\net6.0\Selection Statement Exercise2.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\bin\Debug\net6.0\Selection Statement Exercise2.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.csproj.AssemblyReference.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.AssemblyInfoInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.AssemblyInfo.cs
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\refint\Selection Statement Exercise2.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\Selection Statement Exercise2.genruntimeconfig.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Selection Statement Exercise2\Selection Statement Exercise2\obj\Debug\net6.0\ref\Selection Statement Exercise2.dll
